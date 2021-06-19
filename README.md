@@ -1,4 +1,4 @@
-<h1>Projects Walkthrough: JavaScript Algorithms and Data Structures</h1>
+<h1>Projects Walkthrough: JavaScript Algorithms and Data Structures Developer Certification</h1>
 <h3><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">Redirect to freeCodeCamp!</a></h3>
 
 <code>
